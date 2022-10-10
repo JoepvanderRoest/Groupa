@@ -1,0 +1,18 @@
+.HeaderBar {
+    height: 50px;
+    width: 100%;
+    background-color: var(--secondaryColor);
+    border-bottom: 4px solid var(--thirthColor);
+}
+
+span.appTitle {
+    /* padding-top: 56px; */
+    /* font-family: roboto; */
+    font-size: 26px;
+    /* vertical-align: middle; */
+    color: var(--thirthColor);
+    margin-left: 10px;
+    position:absolute;
+    top:6px;
+    /* margin-top: 10px; */
+}
